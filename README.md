@@ -8,8 +8,4 @@ A WIP, PWA, unofficial online build generator of the [Bulma CSS framework](http:
 that was inspired by [Bootstrap Customize](https://getbootstrap.com/customize/).
 
 Currently, the code is not ready for public sharing, so this repo will simply 
-be used for sharing ideas of how this could be further developed.  
-It also acts as the go-to place to propose extensions and the like; 
-so if you happen to know one that hasn't been included yet in 
-[Bulma Customizer](https://bulma-customizer.bstash.io/), 
-feel free to open an issue and provide relevant details
+be used for sharing ideas of how this could be further developed.  It also acts as the go-to place to propose extensions and the like; so if you happen to know one that hasn't been included yet in [Bulma Customizer](https://bulma-customizer.bstash.io/), feel free to open an issue and provide relevant details.
