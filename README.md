@@ -2,7 +2,7 @@
 
 Create your own **bespoke** Bulma build.
 
-[![Bulma Customizer &#8211; Create your own bespoke Bulma build](https://raw.githubusercontent.com/bstashio/bulma-customizer/master/assets/images/bulma_customizer_banner.png)](https://bulma-customizer.bstash.io/)
+[![Bulma Customizer &#8211; Create your own bespoke Bulma build](https://raw.githubusercontent.com/bstashio/bulma-customizer/master/assets/images/bulma-customizer-banner.png)](https://bulma-customizer.bstash.io/)
 
 A WIP, PWA, unofficial online build generator of the [Bulma CSS framework](http://bulma.io),
 that was inspired by [Bootstrap Customize](https://getbootstrap.com/customize/).
